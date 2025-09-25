@@ -1,4 +1,4 @@
-# Rarulora Unity Quick Scene Switcher
+# Unity Quick Scene Switcher
 
 Unity Editor window to switch, play, create, and organize scenes fast.  
 Path-aware search (`Assets/...`), Favorites, Recents (10), Invisible, Rename, Delete, Create.
